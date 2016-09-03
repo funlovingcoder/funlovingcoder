@@ -30,7 +30,8 @@
         <div class="container">
             <nav class="navbar row">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.html"><span class="et-icon-gears icon-sm icon-white zoomIn animated"></span> Compex</a>
+                    <a class="navbar-brand" href="#">
+                    <img src="favicon.png" width="36" height="36" /> Fun Loving Coder</a>
                     <button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse"
                             data-target=".navbar-1">
                         <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
@@ -39,21 +40,21 @@
                 </div>
                 <div class="collapse navbar-collapse navbar-1">
                     <ul class="site-navigation nav navbar-nav">
-                        <li>
+                        <!--<li>
                             <a  onclick="scrollToTarget('#services')">Services</a>
                         </li>
                         <li>
                             <a onclick="scrollToTarget('#porfolio')">Portfolio</a>
-                        </li>
+                        </li>-->
                         <li>
-                            <a onclick="scrollToTarget('#team')">Team</a>
+                            <a onclick="scrollToTarget('#team')">My Team</a>
                         </li>
-                        <li>
+                        <!--<li>
                             <a onclick="scrollToTarget('#quote')">Get a Quote</a>
                         </li>
                         <li>
                             <a onclick="scrollToTarget('#faq')">FAQ</a>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
             </nav>
@@ -67,19 +68,16 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h3 class="text-center mg-lg tc-white">WE ARE SPECIALIST IN 
-			<span data-typer-targets="WEB DESIGN,WEB DEVELOPMENT,PROMOTION"></span>
+			<span data-typer-targets="WEB/WAP DESIGNING, TECHNICAL SOLUTIONS"></span>
 		    </h3>
 
                     <p class="text-center  mg-lg animated fadeInUp animDelay02">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-                        Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
-                        mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa
-                        quis enim.
+                        test test test test test test test test test test test test test test test test test test test test test test test test 			test test test test test test test test test test test test test test test test test test test test test test test test 			test.
                     </p>
 
                     <div class="text-center">
                         <a class="btn  btn-xl btn-wire wire-btn-carmine-pink animDelay06 animated fadeInUp"
-                           onclick="scrollToTarget('#porfolio')">OUR PORTFOLIO</a>
+                           onclick="scrollToTarget('#team')">Meet My Team</a>
                     </div>
                 </div>
             </div>
@@ -99,9 +97,9 @@
                         Web Design
                     </h3>
 
-                    <p class="text-center">
+                    <!--<p class="text-center">
                         A little feature description could go here. A little feature description.
-                    </p>
+                    </p>-->
                 </div>
                 <div class="col-sm-4">
                     <div class="text-center">
@@ -111,9 +109,9 @@
                         Web Development
                     </h3>
 
-                    <p class="text-center">
+                    <!--<p class="text-center">
                         A little feature description could go here. A little feature description.
-                    </p>
+                    </p>-->
                 </div>
                 <div class="col-sm-4">
                     <div class="text-center">
@@ -123,9 +121,9 @@
                         Promotion
                     </h3>
 
-                    <p class="text-center">
+                    <!--<p class="text-center">
                         A little feature description could go here. A little feature description.
-                    </p>
+                    </p>-->
                 </div>
             </div>
         </div>
@@ -133,7 +131,7 @@
     <!-- services END -->
 
     <!-- clients -->
-    <div class="bloc bgc-platinum l-bloc" id="bloc-3">
+    <!--<div class="bloc bgc-platinum l-bloc" id="bloc-3">
         <div class="container bloc-lg">
             <div class="row">
                 <div class="col-sm-3 text-center">
@@ -150,11 +148,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- clients END -->
 
     <!-- porfolio -->
-    <div class="bloc l-bloc bgc-white" id="porfolio">
+    <!--<div class="bloc l-bloc bgc-white" id="porfolio">
         <div class="container bloc-lg">
             <div class="row">
                 <div class="col-sm-12">
@@ -204,7 +202,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- porfolio END -->
 
     <!-- team -->
@@ -213,7 +211,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h2 class="text-center mg-md ">
-                        Meet our team
+                        Meet my team
                     </h2>
 
                     <p class="sub-heading text-center">
@@ -223,47 +221,47 @@
             </div>
             <div class="row voffset-lg">
                 <div class="col-sm-3">
-                    <img src="img/adolf-zika-872335_640.jpg" class="img-responsive animated zoomIn" alt="member"/>
+                    <img src="img/l.jpg" class="img-responsive animated zoomIn" alt="member"/>
 
                     <h3 class="text-center mg-md">
-                        JohnDoe
+                        Lalit Kishor
                     </h3>
 
                     <p class="text-center">
-                        Web Developer
+                        Salesforce Developer
                     </p>
                 </div>
                 <div class="col-sm-3">
-                    <img src="img/castro-1080873_640.jpg" class="img-responsive animated zoomIn animDelay02" alt="member"/>
+                    <img src="img/l.jpg" class="img-responsive animated zoomIn animDelay02" alt="member"/>
 
                     <h3 class="text-center mg-md">
-                        Jane Doe
+                        Lalit Kishor
                     </h3>
 
                     <p class="text-center">
-                        Designer
+                        Salesforce Developer
                     </p>
                 </div>
                 <div class="col-sm-3">
-                    <img src="img/woman-868571_640.jpg" class="img-responsive animDelay04 animated zoomIn" alt="member"/>
+                    <img src="img/l.jpg" class="img-responsive animDelay04 animated zoomIn" alt="member"/>
 
                     <h3 class="text-center mg-md">
-                        Jane Doe
+                        Lalit Kishor
                     </h3>
 
                     <p class="text-center">
-                        Marketing manager
+                        Salesforce Developer
                     </p>
                 </div>
                 <div class="col-sm-3">
-                    <img src="img/open-door-1156365_640.jpg" class="img-responsive animDelay06 animated zoomIn" alt="member"/>
+                    <img src="img/l.jpg" class="img-responsive animDelay06 animated zoomIn" alt="member"/>
 
                     <h3 class="text-center mg-md">
-                        John Doe
+                        Lalit Kishor
                     </h3>
 
                     <p class="text-center">
-                        CEO
+                        Salesforce Developer
                     </p>
                 </div>
             </div>
@@ -301,35 +299,32 @@
                         <div class="carousel-inner">
                             <div class="item">
                                 <div class="profile-circle">
-                                    <img src="img/bramk.jpg"
+                                    <img src="img/l.jpg"
                                          class="img-responsive img-circle center-block img-frame-rd-md" alt="member"/>
                                 </div>
                                 <blockquote>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla
-                                        eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque
-                                        molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p>
+                                    <p>test test test test test test test test test test test test test test test test test test test test test 					test test test test test test test test test test test test test test test test test test test test test 						test test test test test test test.
+				    </p>
                                 </blockquote>
                             </div>
                             <div class="item">
                                 <div class="profile-circle">
-                                    <img src="img/bramk.jpg"
+                                    <img src="img/l.jpg"
                                          class="img-responsive img-circle center-block img-frame-rd-md" alt="member"/>
                                 </div>
                                 <blockquote>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla
-                                        eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque
-                                        molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p>
+                                    <p>test test test test test test test test test test test test test test test test test test test test test 					test test test test test test test test test test test test test test test test test test test test test 						test test test test test test test.
+				    </p>
                                 </blockquote>
                             </div>
                             <div class="active item">
                                 <div class="profile-circle">
-                                    <img src="img/bramk.jpg"
+                                    <img src="img/l.jpg"
                                          class="img-responsive img-circle center-block img-frame-rd-md" alt="member"/>
                                 </div>
                                 <blockquote>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla
-                                        eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque
-                                        molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p>
+                                    <p>test test test test test test test test test test test test test test test test test test test test test 					test test test test test test test test test test test test test test test test test test test test test 						test test test test test test test.
+				    </p>
                                 </blockquote>
                             </div>
                         </div>
@@ -350,14 +345,14 @@
                     </h3>
                 </div>
                 <div class="col-sm-3 text-center">
-                    <a href="index.html" class="btn btn-lg wire-btn-white btn-wire animated zoomIn">GET A QUOTE NOW</a>
+                    <a href="#" class="btn btn-lg wire-btn-white btn-wire animated zoomIn">CONTACT US</a>
                 </div>
             </div>
         </div>
     </div>
     <!-- Footer - quote END -->
 
-    <div class="bloc l-bloc" id="faq">
+    <!--<div class="bloc l-bloc" id="faq">
         <div class="container bloc-lg">
             <div class="row">
                 <div class="col-sm-12">
@@ -426,7 +421,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <!-- ScrollToTop Button -->
     <a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1')"><span
@@ -439,16 +434,16 @@
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
                     <div class="col-sm-3 text-center">
-                        <a class="social-lg" href="http://www.twitter.com/BootstrapOcean" target="_blank"><span
+                        <a class="social-lg" href="http://www.twitter.com/sharmalalit1812" target="_blank"><span
                                 class="fa fa-twitter icon-md icon-carmine-pink"></span></a>
                     </div>
                     <div class="col-sm-3 text-center">
-                        <a class="social-lg" href="https://www.facebook.com/BootstrapOcean" target="_blank"><span
+                        <a class="social-lg" href="https://www.facebook.com/lalit9799991992" target="_blank"><span
                                 class="fa fa-facebook icon-md icon-carmine-pink"></span></a>
                     </div>
                     <div class="col-sm-3 text-center">
                         <a class="social-lg"
-                           href="https://plus.google.com/b/116513433102470788789/116513433102470788789/posts"
+                           href="#"
                            target="_blank"><span class="fa fa-google-plus icon-md icon-carmine-pink"></span></a>
                     </div>
                     <div class="col-sm-3 text-center">
@@ -458,10 +453,10 @@
             </div>
         </div>
     </div>
-    <div class="row">
+<!--    <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2 text-center mg-md">Created by <a
                         href="http://www.bootstrapocean.com" target="_blank">BootstrapOcean</a></div>
-            </div>
+            </div>-->
     <!-- Footer - bloc-8 END -->
 </div>
 <!-- Main container END -->
