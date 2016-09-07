@@ -49,10 +49,10 @@
                         <li>
                             <a onclick="scrollToTarget('#team')">My Team</a>
                         </li>
-                        <!--<li>
-                            <a onclick="scrollToTarget('#quote')">Get a Quote</a>
-                        </li>
                         <li>
+                            <a onclick="scrollToTarget('#contactus')">Contact Us</a>
+                        </li>
+                        <!--<li>
                             <a onclick="scrollToTarget('#faq')">FAQ</a>
                         </li>-->
                     </ul>
@@ -220,7 +220,8 @@
                 </div>
             </div>
             <div class="row voffset-lg">
-                <div class="col-sm-3">
+                <div class="col-sm-4 ">&nbsp;</div>
+				<div class="col-sm-4 ">
                     <img src="img/l.jpg" class="img-responsive animated zoomIn" alt="member"/>
 
                     <h3 class="text-center mg-md">
@@ -228,10 +229,11 @@
                     </h3>
 
                     <p class="text-center">
-                        Salesforce Developer
+                        Java Developer
                     </p>
                 </div>
-                <div class="col-sm-3">
+				<div class="col-sm-4 ">&nbsp;</div>
+                <!--<div class="col-sm-3">
                     <img src="img/l.jpg" class="img-responsive animated zoomIn animDelay02" alt="member"/>
 
                     <h3 class="text-center mg-md">
@@ -239,7 +241,7 @@
                     </h3>
 
                     <p class="text-center">
-                        Salesforce Developer
+                        Java Developer
                     </p>
                 </div>
                 <div class="col-sm-3">
@@ -250,7 +252,7 @@
                     </h3>
 
                     <p class="text-center">
-                        Salesforce Developer
+                        Java Developer
                     </p>
                 </div>
                 <div class="col-sm-3">
@@ -261,9 +263,9 @@
                     </h3>
 
                     <p class="text-center">
-                        Salesforce Developer
+                        Java Developer
                     </p>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
@@ -336,7 +338,7 @@
     <!-- testimonials END -->
 
     <!-- Footer - quote -->
-    <div class="bloc bgc-carmine-pink d-bloc" id="quote">
+    <div class="bloc bgc-carmine-pink d-bloc" id="contactus">
         <div class="container bloc-md">
             <div class="row">
                 <div class="col-sm-9">
@@ -434,7 +436,7 @@
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
                     <div class="col-sm-3 text-center">
-                        <a class="social-lg" href="http://www.twitter.com/sharmalalit1812" target="_blank"><span
+                        <a class="social-lg" href="http://www.twitter.com/lalit9799991992" target="_blank"><span
                                 class="fa fa-twitter icon-md icon-carmine-pink"></span></a>
                     </div>
                     <div class="col-sm-3 text-center">
@@ -443,11 +445,12 @@
                     </div>
                     <div class="col-sm-3 text-center">
                         <a class="social-lg"
-                           href="#"
+                           href="https://plus.google.com/108014219937920561307"
                            target="_blank"><span class="fa fa-google-plus icon-md icon-carmine-pink"></span></a>
                     </div>
                     <div class="col-sm-3 text-center">
-                        <a class="social-lg" href="#"><span class="fa fa-dribbble icon-md icon-carmine-pink"></span></a>
+                        <a class="social-lg" href="https://www.linkedin.com/in/lalit9799991992"
+						target="_blank"><span class="fa fa-linkedin icon-md icon-carmine-pink"></span></a>
                     </div>
                 </div>
             </div>
